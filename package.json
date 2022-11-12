@@ -1,0 +1,24 @@
+{
+  "name": "unit-test-practice",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifeanyi305/Unit-test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifeanyi305/Unit-test-practice/issues"
+  },
+  "homepage": "https://github.com/ifeanyi305/Unit-test-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
